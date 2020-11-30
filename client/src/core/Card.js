@@ -83,7 +83,7 @@ const Card = ({
       )
     );
   };
-  //console.log(product);
+  // console.log(product);
   return (
     <div className="card h-100">
       <div className="card-header bg-dark text-white">{product.name}</div>
