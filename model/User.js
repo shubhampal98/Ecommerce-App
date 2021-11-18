@@ -26,7 +26,7 @@ const userSchema = new mongoose.Schema(
     salt: String, // use to genreate hash password
     role: {
       type: Number, // 0 == user, 1== admin
-      default: 1,
+      default: 0,
     },
     history: {
       type: Array,
