@@ -8,7 +8,7 @@ export default function Footer() {
         method.
         <br />
         Copyright &copy; {new Date().getFullYear()}{" "}
-        <a href="https://github.com/Yash-Handa" target="_blank">Yash Handa</a>, <a href="https://github.com/shubhampal98" target="_blank">Shubham Pal</a>
+        <a href="https://github.com/shubhampal98" target="_blank">Shubham Pal</a>
       </div>
     </footer>
   );
